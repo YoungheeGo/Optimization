@@ -41,3 +41,5 @@
 13. 유전자 알고리즘 (Genetic Algorithm)
 14. Surrogate Models
 
+
+끝.
